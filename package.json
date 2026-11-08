@@ -1,0 +1,25 @@
+{
+  "name": "dudi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azududi-droid/Dudi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azududi-droid/Dudi/issues"
+  },
+  "homepage": "https://github.com/azududi-droid/Dudi#readme",
+  "dependencies": {
+    "@remotion/cli": "^4.0.541",
+    "hyperframes": "^0.9.22",
+    "remotion": "^4.0.541"
+  }
+}
