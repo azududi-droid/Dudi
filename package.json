@@ -18,10 +18,14 @@
   },
   "homepage": "https://github.com/azududi-droid/Dudi#readme",
   "dependencies": {
+    "@react-three/drei": "^9.117.3",
+    "@react-three/fiber": "^8.17.10",
     "@remotion/cli": "^4.0.541",
+    "@remotion/three": "^4.0.541",
     "hyperframes": "^0.9.22",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "remotion": "^4.0.541"
+    "remotion": "^4.0.541",
+    "three": "^0.170.0"
   }
 }
